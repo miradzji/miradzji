@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahmat @miradzji
-- 👀 I’m interested in Data Anlytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Any Data Analytics Projects
 - 📫 You cant email me at miradzji@gmail.com
